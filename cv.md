@@ -3,10 +3,10 @@
 ## __Yuldasheva Aziza Zakirovna__
 
 ### **Contact**
-#### *99899 790 03 13*
-#### *akmal.aziza@bk.ru*
-#### *azizainha@bk.ru*
-#### *@Bayzo&Salah* (telegram)
+##### *99899 790 03 13*
+##### *akmal.aziza@bk.ru*
+##### *azizainha@bk.ru*
+##### *@Bayzo&Salah* (telegram)
 
 ### **Summary**
 *  I have
@@ -54,11 +54,11 @@
     * _Logical programming_
 
 ### **Code example**
-[Codewars](https://www.codewars.com) 
-*Profile: azizainha*                             
+##### [Codewars](https://www.codewars.com) 
+##### *Profile: azizainha*                             
 
 ### **Experience**
-[Project](https://azizainha.github.io/singolo_frontend/#)
+##### [Project](https://azizainha.github.io/singolo_frontend/#)
 
 
 ### **Education**
@@ -69,11 +69,11 @@
 
 #### EPAM - RS School (online)
 #### SoloLearn.com
-[Certificate of HTML course](https://www.sololearn.com/Certificate/1014-11091834/pdf/)
-[Certificate of CSS course ](https://www.sololearn.com/Certificate/1023-11091834/pdf/)
-[Certificate of SQL course ](https://www.sololearn.com/Certificate/1060-11091834/pdf/)
-[Certificate of JavaScript course](https://www.sololearn.com/Certificate/1024-11091834/pdf/)
-[Certificate of jQuery course](https://www.sololearn.com/Certificate/1082-11091834/pdf/)
+##### [Certificate of HTML course](https://www.sololearn.com/Certificate/1014-11091834/pdf/)
+##### [Certificate of CSS course ](https://www.sololearn.com/Certificate/1023-11091834/pdf/)
+##### [Certificate of SQL course ](https://www.sololearn.com/Certificate/1060-11091834/pdf/)
+##### [Certificate of JavaScript course](https://www.sololearn.com/Certificate/1024-11091834/pdf/)
+##### [Certificate of jQuery course](https://www.sololearn.com/Certificate/1082-11091834/pdf/)
 
 ### **English**
    *Upper - Intermediate Certificate (2002 - 2005, CIY Education centre)*
