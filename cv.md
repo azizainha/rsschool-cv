@@ -62,10 +62,10 @@
 
 ### **Education**
   * **Inha University in Tashkent, Tashkent, Uzbekistan**                  
-         * Major: Information and Communication Engineering
-           * September 2015 – May 2019
+       * Major: Information and Communication Engineering
+          * September 2015 – May 2019
   * **1 – Tashkent Pedagogical College, Tashkent, Uzbekistan**                             
-         * Major: Primary education
+       * Major: Primary education
            * September 2005 – May 2008
 
   * EPAM - RS School (online)
