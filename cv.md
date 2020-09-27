@@ -68,8 +68,8 @@
        * Major: Primary education
            * September 2005 – May 2008
 
-  * EPAM - RS School (online)
-  * SoloLearn.com
+  * **EPAM - RS School (online)**
+  * **SoloLearn.com**
      * [Certificate of HTML course](https://www.sololearn.com/Certificate/1014-11091834/pdf/)
      * [Certificate of CSS course ](https://www.sololearn.com/Certificate/1023-11091834/pdf/)
      * [Certificate of SQL course ](https://www.sololearn.com/Certificate/1060-11091834/pdf/)
