@@ -62,10 +62,12 @@
 
 
 ### **Education**
-    Inha University in Tashkent, Tashkent, Uzbekistan                  September 2015 – May 2019
-           Major: Information and Communication Engineering           
-    1 – Tashkent Pedagogical College, Tashkent, Uzbekistan             September 2005 – May 2008                
-           Major: Primary education                                                        
+    * Inha University in Tashkent, Tashkent, Uzbekistan                  
+           * Major: Information and Communication Engineering
+              * September 2015 – May 2019
+    * 1 – Tashkent Pedagogical College, Tashkent, Uzbekistan                             
+           * Major: Primary education
+              * September 2005 – May 2008
 
 #### EPAM - RS School (online)
 #### SoloLearn.com
@@ -76,8 +78,8 @@
 ##### [Certificate of jQuery course](https://www.sololearn.com/Certificate/1082-11091834/pdf/)
 
 ### **English**
-   *Upper - Intermediate Certificate (2002 - 2005, CIY Education centre)*
-   *IELTS Certificate (2014, bandscore: 6.0 )* 
+   ##### *Upper - Intermediate Certificate (2002 - 2005, CIY Education centre)*
+   ##### *IELTS Certificate (2014, bandscore: 6.0 )* 
 
 
 
