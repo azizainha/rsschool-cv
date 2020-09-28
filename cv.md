@@ -1,8 +1,8 @@
 # **Resume**
 
-## __Yuldasheva Aziza Zakirovna__
+## Yuldasheva Aziza Zakirovna
 
-### **Contact**
+### Contact
 * *99899 790 03 13*
 * *akmal.aziza@bk.ru*
 * *azizainha@gmail.com*
@@ -25,7 +25,7 @@
     * _Excel_ 
     * _PowerPoint_ 
     * _Outlook_
-* **Web programming:**
+* Web programming:
     * _HTML_
     * _CSS_ 
     * _JavaScript_
