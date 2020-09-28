@@ -5,9 +5,9 @@
 ### **Contact**
 * *99899 790 03 13*
 * *akmal.aziza@bk.ru*
-* *azizainha@bk.ru*
+* *azizainha@gmail.com*
 
-### **Summary**
+### Summary
 *  I have
     *  ability to learn new things
     *  abilitiy in leadership
