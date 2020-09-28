@@ -53,11 +53,11 @@
     * _Logical programming_
 
 ### **Code example**
-##### [Codewars](https://www.codewars.com) 
-##### *Profile: azizainha*                             
+    [Codewars](https://www.codewars.com) 
+    *Profile: azizainha*                             
 
 ### **Experience**
-##### [Project](https://azizainha.github.io/singolo_frontend/#)
+  [Project](https://azizainha.github.io/singolo_frontend/#)
 
 
 ### **Education**
