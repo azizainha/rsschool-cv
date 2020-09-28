@@ -53,7 +53,7 @@
     * _Logical programming_
 
 ### **Code example**
-  [Codewars](https://www.codewars.com) 
+  > [Codewars](https://www.codewars.com) 
   *Profile: azizainha*                             
 
 ### **Experience**
