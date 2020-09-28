@@ -57,8 +57,7 @@
   *Profile: azizainha*                             
 
 ### **Experience**
-  [Project](https://azizainha.github.io/singolo_frontend/#)
-
+  - [Project](https://azizainha.github.io/singolo_frontend/#)
 
 ### **Education**
   * **Inha University in Tashkent, Tashkent, Uzbekistan**                  
