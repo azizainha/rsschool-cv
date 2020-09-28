@@ -25,7 +25,7 @@
     * _Excel_ 
     * _PowerPoint_ 
     * _Outlook_
-* Web programming:
+* **Web programming:**
     * _HTML_
     * _CSS_ 
     * _JavaScript_
