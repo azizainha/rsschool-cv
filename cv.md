@@ -32,7 +32,7 @@
 * **Programming tools:**
     * _Github_
     * _Bootstrap_ 
-    * _NOde.js_ 
+    * _Node.js_ 
     * _Visual Studio_
     * _Visual Studio Code_
 
@@ -53,8 +53,8 @@
     * _Logical programming_
 
 ### **Code example**
-    [Codewars](https://www.codewars.com) 
-    *Profile: azizainha*                             
+  [Codewars](https://www.codewars.com) 
+  *Profile: azizainha*                             
 
 ### **Experience**
   [Project](https://azizainha.github.io/singolo_frontend/#)
